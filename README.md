@@ -15,7 +15,7 @@
 
 ### Screenshot
 
-![desktop-design copy](https://user-images.githubusercontent.com/67371847/215522893-e78ab143-c0d9-40ef-8b3e-f104a8532711.jpg)
+<img width="1400" alt="Hero Element 4" src="https://user-images.githubusercontent.com/67371847/216666607-4e076d70-b300-4635-8e0c-8709c431e3d2.png">
 
 
 ### Links
@@ -36,12 +36,14 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Media query
 
 
 ### What I learned
 
-I learned what html and css are and what they are used for how to work flexbox.
-this is my fourth project ✊🚀
+For me, this project was much more complex than previous projects.
+Because for the first time I used media query to make the page responsive,
+I know there are many more challenges ahead 🚀🚀✊
 
 
 ## Author
