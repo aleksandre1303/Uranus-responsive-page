@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL:  https://github.com/aleksandre1303/Profile-Card-Component
-- Live Site URL: https://aleksandre1303.github.io/Profile-Card-Component/
+- Live Site URL: https://aleksandre1303.github.io/Uranus-responsive-page/
 
 
 ## Author
